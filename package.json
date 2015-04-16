@@ -5,6 +5,7 @@
   "author": "jessefulton <jesse.fulton@juxt.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "cron": "^1.0.9",
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
@@ -18,7 +19,9 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.2",
     "hubot-slack": "^3.3.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "ical": "^0.4.0",
+    "moment": "^2.10.2"
   },
   "engines": {
     "node": "0.10.x"
