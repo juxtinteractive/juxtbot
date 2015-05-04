@@ -69,7 +69,7 @@ the thing.
 There will inevitably be functionality that everyone will want. Instead of
 writing it yourself, you can use existing plugins.
 
-Hubot is able to load plugins from third-party `npm` packages. This is the
+juxtbot is able to load plugins from third-party `npm` packages. This is the
 recommended way to add functionality to your hubot. You can get a list of
 available hubot plugins on [npmjs.com](npmjs) or by using `npm search`:
 
