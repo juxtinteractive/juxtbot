@@ -4,7 +4,7 @@
 # Notes:
 #
 #   Sample command line usage:
-#   `HUBOT_CALENDAR_ALERTS_LOCATION_FILTER='San Francisco' HUBOT_CALENDAR_ALERTS_URL='  ://espn.go.com/travel/sports/calendar/export/espnCal?teams=5_26' HUBOT_CALENDAR_ALERTS_ROOM=announcements ./bin/hubot`
+#   `HUBOT_CALENDAR_ALERTS_LOCATION_FILTER='San Francisco' HUBOT_CALENDAR_ALERTS_URL='http://espn.go.com/travel/sports/calendar/export/espnCal?teams=5_26' HUBOT_CALENDAR_ALERTS_ROOM=announcements ./bin/hubot`
 #
 
 CronJob = require('cron').CronJob
